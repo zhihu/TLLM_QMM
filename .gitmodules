@@ -1,0 +1,6 @@
+[submodule "3rd/TensorRT-LLM"]
+	path = 3rd/TensorRT-LLM
+	url = git@github.com:NVIDIA/TensorRT-LLM.git
+[submodule "3rd/cutlass"]
+	path = 3rd/cutlass
+	url = git@github.com:NVIDIA/cutlass.git
